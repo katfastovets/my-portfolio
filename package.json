@@ -1,0 +1,22 @@
+{
+  "name": "backend_for_forms",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/katfastovets/backend_for_forms.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/katfastovets/backend_for_forms/issues"
+  },
+  "homepage": "https://github.com/katfastovets/backend_for_forms#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
